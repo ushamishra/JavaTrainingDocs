@@ -1,0 +1,38 @@
+ 1. Write java program with specific format
+
+ 2 . javac - compilation - java program will be converted to byte code
+
+ 3.  java A  - Translation- java will load the byte code and convert it to machine code and run the machine code
+
+Classpath : C:\Program Files\Java\jdk-23\lib;D:\SoftwareTraining\Java
+
+IDE
+
+
+Path vs classpath 
+
+temporary setting vs permanent setting
+
+compilation vs translation 
+
+why byte code  - write it once and run it anywhere, java has become portable
+
+Student management system - Faculties(Mac) .jar  javac, java, Students(Window) .jar javac,java, Departments(Linux) .jar javac , java
+
+
+.jar -  all .classes 
+
+
+Unix  - javac , java 
+
+
+jdk - java development kit 
+
+jre - java run time environment   - java A
+
+jvm - java virtual machine 
+
+
+
+
+

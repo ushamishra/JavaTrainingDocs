@@ -1,0 +1,64 @@
+What is class
+
+
+Student 
+
+name - string 
+
+roll no - integer 
+
+percentage - 89.34%  decimal type of data 
+
+std - integer
+
+section - character
+
+
+ class Student {
+
+name - string 
+
+rollno - integer 
+
+percentage - 89.34%  decimal type of data 
+
+std - integer
+
+section - character
+
+
+}
+
+class BankAccount {
+
+accountHoldeName; balance
+
+}
+
+      Student  o1  = new Student()
+o1.name= "Prasuna"
+o1.rollno=23;
+o1.percentage= 85;
+o1.section= 'A'
+o1.std=10
+
+
+
+      Student  o2  = new Student()
+o2.name= "Mrudula"
+o2.rollno=12;
+o2.percentage= 89;
+o2.section= 'B'
+o2.std=11
+
+      Student  o3  = new Student()
+o2.name= "Thomas"
+o2.rollno=27;
+o2.percentage= 86;
+o2.section= 'C'
+o2.std=12
+
+
+
+
+
