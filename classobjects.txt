@@ -13,6 +13,8 @@ std - integer
 
 section - character
 
+isFemale  Boolean 
+
 
  class Student {
 
@@ -58,6 +60,12 @@ o2.percentage= 86;
 o2.section= 'C'
 o2.std=12
 
+
+java - byte code -> Machine code 
+
+Student.main
+
+Person class
 
 
 
