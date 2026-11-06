@@ -1,3 +1,5 @@
+package collection of classes - folder
+
 class
 
 object
@@ -19,13 +21,15 @@ datatype  - 1 > primitive datatype  raw
  
 -- integer data  byte, short,int,long  
 -- decimal data  float  double
--- char  
+-- char  - 16 bit or 2 byte
 -- boolean - true or false
+
 
 
  2>  non-primitive datatype
 
- 
+ primitive datatype  raw
+ ==================
 -128 to 127 - 1 byte -
 
 127 houses
@@ -88,11 +92,21 @@ char currencyType = '$'
 char opeartionType = '+'
 =================
 
-boolean datatype
+boolean datatype  - 1 bit
 
 boolean isPhysicallyDisabled = true
 
 
+
+ non-primitive datatype
+=========================
+
+String - is a class from java.lang package - it is in jdk library - 
+compiler uses java.lang package
+
+class
+
+Arrays
 
 
 
