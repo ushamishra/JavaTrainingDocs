@@ -1,0 +1,39 @@
+Method 
+===============
+
+step1 = java Main 1234 Thomas abc123 2000
+
+args[] 
+
+args
+
+step2 Main.main(null)
+
+1. method inside class is to process the data 
+2. A method can have no input parameter or 1 or more than 1 input parameter
+3. A method can have no output , it is void or it can can have some output 
+4. Method has access specifier
+5. Method is to process data, it carries the business logic and also we can reuse
+
+
+ Every method, variables, class they access specifier .
+
+public  - highest access - access inside the package , inside the class itself of same package, outside class of same package, other package classes
+
+protected access -  access inside the package, inside the class itself of same package, outside class of same package
+
+Default access -  access inside the package, inside the class itself of same package, outside class of same package
+
+private access - lowest access - inside the class itself 
+
+==================
+
+Constructor
+
+ It is a method having same name as the class , whose return type is the object of the class , but it not explicitly mentioned
+
+- 2 type of constructor - 1. default or empty constructor with no input 2. Parametrized constructor
+
+
+
+
